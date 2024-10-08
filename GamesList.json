@@ -1,11 +1,10 @@
 {
-    "Slope" : [{
-        "iconURL":"https://verygenericusername.github.io/mrpotatoesgames/slopeIcon_.png",
-        "link":"https://verygenericusername.github.io/mrpotatoesgames/"
-    }
-    ],
-    "StickmanDismount": [{
-        "iconURL":"https://verygenericusername.github.io/mrpotatoesgames/stickmandismountIcon_.png",
-        "link":"https://gamesite.cdnpog.com/618db060-123c-411f-8745-4c0cdd459af3/index.html?noads=true" 
-    }]
+    "Data":[
+        {
+            "Slope_iconURL":"https://verygenericusername.github.io/mrpotatoesgames/slopeIcon_.png",
+            "Slope_link":"https://verygenericusername.github.io/mrpotatoesgames/",
+            "StickmanDismount_iconURL":"https://verygenericusername.github.io/mrpotatoesgames/stickmandismountIcon_.png",
+            "StickmanDismount_link":"https://gamesite.cdnpog.com/618db060-123c-411f-8745-4c0cdd459af3/index.html?noads=true"
+        }
+    ]
 }

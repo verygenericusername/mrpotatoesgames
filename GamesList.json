@@ -1,8 +1,10 @@
 {
     "Data":[
         {
+            "gameName1":"Slope",
             "Slope_iconURL":"https://verygenericusername.github.io/mrpotatoesgames/slopeIcon_.png",
             "Slope_link":"https://verygenericusername.github.io/mrpotatoesgames/",
+            "gameName2":"Stickman Dismount",
             "StickmanDismount_iconURL":"https://verygenericusername.github.io/mrpotatoesgames/stickmandismountIcon_.png",
             "StickmanDismount_link":"https://gamesite.cdnpog.com/618db060-123c-411f-8745-4c0cdd459af3/index.html?noads=true"
         }

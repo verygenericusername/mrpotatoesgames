@@ -24,6 +24,56 @@
       "gameName": "Temple Run 2",
       "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/templerunIcon_.png",
       "link": "https://xlegends.github.io/tpp2/"
-    }
+    },
+    {
+      "gameName": "Russian Car Driver: ZIL 130",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/russiancardriverzil130Icon_.png",
+      "link": "https://zayaruzostreetorgan.com/uploads/5/5/6/7/5567194/custom_themes/593675271171586975/rcd_zil130.html"
+    },
+    {
+      "gameName": "Subway Surfers",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/subwaysurfersIcon_.png",
+      "link": "https://dddavit.github.io/subway/"
+    },
+    {
+      "gameName": "Tiny Fishing",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/tinyfishingIcon_.png",
+      "link": "https://webglmath.github.io/tiny-fishing/"
+    },
+    {
+      "gameName": "Among Us",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/amongusIcon_.png",
+      "link": "https://webglmath.github.io/among-us/"
+    },
+    {
+      "gameName": "Masked Forces",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/maskedforcesIcon_.png",
+      "link": "https://ubg44.github.io/MaskedForces/"
+    },
+    {
+      "gameName": "Idle Breakout",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/idlebreakoutIcon_.png",
+      "link": "https://ubg98.github.io/IdleBreakout/"
+    },
+    {
+      "gameName": "Drift Boss",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/driftbossIcon_.jpg",
+      "link": "https://webglmath.github.io/drift-boss/"
+    },
+    {
+      "gameName": "Madalin Stunt Cars 3",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/madalinstuntcars3Icon_.png",
+      "link": "https://webglmath.github.io/madalin-stunt-cars-3/"
+    },
+    {
+      "gameName": "Vex 6",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/vex6Icon_.png",
+      "link": "https://ubg98.github.io/Vex6/"
+    },
+    {
+      "gameName": "Vex 7",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/vex7Icon_.jpg",
+      "link": "https://ubg98.github.io/Vex7/"
+    },
   ]
 }

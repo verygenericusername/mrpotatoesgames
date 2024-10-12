@@ -61,6 +61,21 @@
       "link": "https://webglmath.github.io/madalin-stunt-cars-3/"
     },
     {
+      "gameName": "Vex 3",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/vex3Icon_.jpg",
+      "link": "https://games-site.github.io/projects/vex3/index.html"
+    },
+    {
+      "gameName": "Vex 4",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/vex4Icon_.png",
+      "link": "https://games-site.github.io/projects/vex4/index.html"
+    },
+    {
+      "gameName": "Vex 5",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/vex5Icon_.jpg",
+      "link": "https://games-site.github.io/projects/vex5/index.html"
+    },
+    {
       "gameName": "Vex 6",
       "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/vex6Icon_.png",
       "link": "https://ubg98.github.io/Vex6/"
@@ -69,6 +84,66 @@
       "gameName": "Vex 7",
       "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/vex7Icon_.jpg",
       "link": "https://ubg98.github.io/Vex7/"
+    }
+    {
+      "gameName": "Duck Life 4",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/ducklife4Icon_.png",
+      "link": "https://games-site.github.io/projects/ducklife4/index.html"
+    },
+    {
+      "gameName": "Moto X3M",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/motox3mIcon_.png",
+      "link": "https://games-site.github.io/projects/moto-x3m/index.html"
+    },
+    {
+      "gameName": "Basket Random",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/basketrandomIcon_.png",
+      "link": "https://games-site.github.io/projects/basket-random/index.html"
+    },
+    {
+      "gameName": "Boxing Random",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/boxingrandomIcon_.png",
+      "link": "https://games-site.github.io/projects/boxing-random/index.html"
+    },
+    {
+      "gameName": "Soccer Random",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/soccerrandomIcon_.png",
+      "link": "https://games-site.github.io/projects/soccer-random/index.html"
+    },
+    {
+      "gameName": "Volley Random",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/volleyrandomIcon_.png",
+      "link": "https://games-site.github.io/projects/volley-random/index.html"
+    },
+    {
+      "gameName": "BitLife",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/bitlifeIcon_.png",
+      "link": "https://games-site.github.io/projects/bitlife/index.html"
+    },
+    {
+      "gameName": "Cookie Clicker",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/cookieclickerIcon_.png",
+      "link": "https://games-site.github.io/projects/cookie-clicker/index.html"
+    },
+    {
+      "gameName": "Madalin Stunt Cars 2",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/madalinstuntcars2Icon_.png",
+      "link": "https://games-site.github.io/projects/cookie-clicker/index.html"
+    },
+    {
+      "gameName": "2048",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/2048Icon_.png",
+      "link": "https://hczhcz.github.io/2048/20ez/"
+    },
+    {
+      "gameName": "Retro Bowl",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/retrobowlIcon_.png",
+      "link": "https://agamyacapital.com/uploads/5/5/6/7/5567194/custom_themes/230188292910318641/files/rb1.html"
+    },
+    {
+      "gameName": "Fruit Ninja",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/fruitninjaIcon_.png",
+      "link": "https://verma-anushka.github.io/Fruit-Ninja/"
     }
   ]
 }

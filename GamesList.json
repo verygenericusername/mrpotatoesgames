@@ -139,6 +139,16 @@
       "gameName": "Fruit Ninja",
       "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/fruitninjaIcon_.png",
       "link": "https://verma-anushka.github.io/Fruit-Ninja/"
+    },
+    {
+      "gameName": "Age Of War",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/ageofwarIcon_.png",
+      "link": "https://verygenericusername.github.io/mrpotatoesgames/ageofwar.html"
+    },
+        {
+      "gameName": "The Impossible Quiz",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/theimpossiblequizIcon_.png",
+      "link": "https://verygenericusername.github.io/mrpotatoesgames/theimpossiblequiz.html"
     }
   ]
 }

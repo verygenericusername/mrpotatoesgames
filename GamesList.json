@@ -14,6 +14,16 @@
       "gameName": "Stickman Hook",
       "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/stickmanhookIcon_.jpg",
       "link": "https://stickman.pro/iframe/index.html"
+    },
+    {
+      "gameName": "Case Clicker",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/caseclickerIcon_.png",
+      "link": "https://mtsl.dk/csgo/"
+    },
+    {
+      "gameName": "Temple Run 2",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/templerunIcon_.png",
+      "link": "https://xlegends.github.io/tpp2/"
     }
   ]
 }

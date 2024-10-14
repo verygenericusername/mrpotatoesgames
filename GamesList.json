@@ -145,10 +145,30 @@
       "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/ageofwarIcon_.png",
       "link": "https://verygenericusername.github.io/mrpotatoesgames/ageofwar.html"
     },
-        {
+    {
       "gameName": "The Impossible Quiz",
       "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/theimpossiblequizIcon_.png",
       "link": "https://verygenericusername.github.io/mrpotatoesgames/theimpossiblequiz.html"
+    },
+    {
+      "gameName": "Drive Mad",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/drivemadIcon_.png",
+      "link": "https://stopbullying.reason.org.nz/gf/drive-mad/index.html"
+    },
+    {
+      "gameName": "Gunspin",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/gunspinIcon_.png",
+      "link": "https://stopbullying.reason.org.nz/gf/gunspin.html"
+    },
+    {
+      "gameName": "Getaway Shootout",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/getawayshootoutIcon_.png",
+      "link": "https://stopbullying.reason.org.nz/gf/getaway-shootout/index.html"
+    },
+    {
+      "gameName": "Rooftop Snipers",
+      "iconURL": "https://verygenericusername.github.io/mrpotatoesgames/rooftopsnipersIcon_.png",
+      "link": "https://stopbullying.reason.org.nz/gf/rooftop-snipers/index.html"
     }
   ]
 }
